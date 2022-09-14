@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MatthewMcAndrews
+- 👀 I’m interested in clean code
+- 🌱 I’m currently learning about lexing and parsing
+- 💞️ I’m looking to collaborate on something fresh
